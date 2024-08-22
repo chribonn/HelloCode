@@ -15,7 +15,7 @@ The hash values match : True
 
 ## Notes
 
-You can watch a video walkthrough of the process by ![clicking here](./assets/compile.mp4).
+Watch a video walkthrough at [https://youtu.be/RIKc0ZZyOyo](https://youtu.be/RIKc0ZZyOyo).
 
 ### Links
 
