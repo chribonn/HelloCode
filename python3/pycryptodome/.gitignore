@@ -1,4 +1,8 @@
 # Source: https://github.com/github/gitignore/blob/main/Python.gitignore
+
+# Non-python support files related to thsi project
+.support_material/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
